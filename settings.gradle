@@ -1,0 +1,5 @@
+rootProject.name='SPOK_TOOLS'
+include ':app'
+include ':TraceView'
+include ':textviewset'
+include ':scriptEngine'

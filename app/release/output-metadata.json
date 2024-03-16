@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "spoklab.app.spoktools",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 999,
+      "versionName": "0.1.1R_12",
+      "outputFile": "app-release.apk"
+    }
+  ],
+  "elementType": "File"
+}
